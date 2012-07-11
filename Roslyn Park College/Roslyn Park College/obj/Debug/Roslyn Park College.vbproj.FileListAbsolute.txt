@@ -1,0 +1,23 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Roslyn Park College\Roslyn Park College\bin\Debug\Roslyn Park College.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Roslyn Park College\Roslyn Park College\bin\Debug\Roslyn Park College.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Roslyn Park College\Roslyn Park College\bin\Debug\Roslyn Park College.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Roslyn Park College\Roslyn Park College\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Roslyn Park College\Roslyn Park College\obj\Debug\Roslyn_Park_College.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Roslyn Park College\Roslyn Park College\obj\Debug\Roslyn_Park_College.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Roslyn Park College\Roslyn Park College\obj\Debug\Roslyn Park College.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Roslyn Park College\Roslyn Park College\obj\Debug\Roslyn Park College.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Roslyn Park College\Roslyn Park College\obj\Debug\Roslyn Park College.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Roslyn Park College\Roslyn Park College\obj\Debug\Roslyn Park College.pdb
+E:\Roslyn Park College\Roslyn Park College\obj\Debug\Roslyn Park College.exe
+E:\Roslyn Park College\Roslyn Park College\obj\Debug\Roslyn Park College.xml
+E:\Roslyn Park College\Roslyn Park College\obj\Debug\Roslyn Park College.pdb
+E:\Exercises\Roslyn Park College\Roslyn Park College\obj\Debug\Roslyn Park College.exe
+E:\Exercises\Roslyn Park College\Roslyn Park College\obj\Debug\Roslyn Park College.xml
+E:\Exercises\Roslyn Park College\Roslyn Park College\obj\Debug\Roslyn Park College.pdb
+E:\Exercises\Roslyn Park College\Roslyn Park College\obj\Debug\ResolveAssemblyReference.cache
+E:\Exercises\Roslyn Park College\Roslyn Park College\obj\Debug\Roslyn_Park_College.Form1.resources
+E:\Exercises\Roslyn Park College\Roslyn Park College\obj\Debug\Roslyn_Park_College.Resources.resources
+E:\Exercises\Roslyn Park College\Roslyn Park College\obj\Debug\Roslyn Park College.vbproj.GenerateResource.Cache
+E:\Exercises\Roslyn Park College\Roslyn Park College\bin\Debug\Roslyn Park College.exe
+E:\Exercises\Roslyn Park College\Roslyn Park College\bin\Debug\Roslyn Park College.pdb
+E:\Exercises\Roslyn Park College\Roslyn Park College\bin\Debug\Roslyn Park College.xml

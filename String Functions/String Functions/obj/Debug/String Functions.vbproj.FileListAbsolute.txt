@@ -1,0 +1,10 @@
+E:\Exercises\String Functions\String Functions\bin\Debug\String Functions.exe
+E:\Exercises\String Functions\String Functions\bin\Debug\String Functions.pdb
+E:\Exercises\String Functions\String Functions\bin\Debug\String Functions.xml
+E:\Exercises\String Functions\String Functions\obj\Debug\ResolveAssemblyReference.cache
+E:\Exercises\String Functions\String Functions\obj\Debug\String_Functions.Form1.resources
+E:\Exercises\String Functions\String Functions\obj\Debug\String_Functions.Resources.resources
+E:\Exercises\String Functions\String Functions\obj\Debug\String Functions.vbproj.GenerateResource.Cache
+E:\Exercises\String Functions\String Functions\obj\Debug\String Functions.exe
+E:\Exercises\String Functions\String Functions\obj\Debug\String Functions.xml
+E:\Exercises\String Functions\String Functions\obj\Debug\String Functions.pdb

@@ -1,0 +1,10 @@
+E:\Exercises\Name Concatenation\Name Concatenation\bin\Debug\Name Concatenation.exe
+E:\Exercises\Name Concatenation\Name Concatenation\bin\Debug\Name Concatenation.pdb
+E:\Exercises\Name Concatenation\Name Concatenation\bin\Debug\Name Concatenation.xml
+E:\Exercises\Name Concatenation\Name Concatenation\obj\Debug\ResolveAssemblyReference.cache
+E:\Exercises\Name Concatenation\Name Concatenation\obj\Debug\Name_Concatenation.Form1.resources
+E:\Exercises\Name Concatenation\Name Concatenation\obj\Debug\Name_Concatenation.Resources.resources
+E:\Exercises\Name Concatenation\Name Concatenation\obj\Debug\Name Concatenation.vbproj.GenerateResource.Cache
+E:\Exercises\Name Concatenation\Name Concatenation\obj\Debug\Name Concatenation.exe
+E:\Exercises\Name Concatenation\Name Concatenation\obj\Debug\Name Concatenation.xml
+E:\Exercises\Name Concatenation\Name Concatenation\obj\Debug\Name Concatenation.pdb

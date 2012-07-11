@@ -1,0 +1,10 @@
+E:\Exercises\Sandymount Paints\Sandymount Paints\bin\Debug\Sandymount Paints.exe
+E:\Exercises\Sandymount Paints\Sandymount Paints\bin\Debug\Sandymount Paints.pdb
+E:\Exercises\Sandymount Paints\Sandymount Paints\bin\Debug\Sandymount Paints.xml
+E:\Exercises\Sandymount Paints\Sandymount Paints\obj\Debug\ResolveAssemblyReference.cache
+E:\Exercises\Sandymount Paints\Sandymount Paints\obj\Debug\Sandymount_Paints.Form1.resources
+E:\Exercises\Sandymount Paints\Sandymount Paints\obj\Debug\Sandymount_Paints.Resources.resources
+E:\Exercises\Sandymount Paints\Sandymount Paints\obj\Debug\Sandymount Paints.vbproj.GenerateResource.Cache
+E:\Exercises\Sandymount Paints\Sandymount Paints\obj\Debug\Sandymount Paints.exe
+E:\Exercises\Sandymount Paints\Sandymount Paints\obj\Debug\Sandymount Paints.xml
+E:\Exercises\Sandymount Paints\Sandymount Paints\obj\Debug\Sandymount Paints.pdb

@@ -1,0 +1,10 @@
+E:\Exercises\VB Calculator\VB Calculator\bin\Debug\VB Calculator.exe
+E:\Exercises\VB Calculator\VB Calculator\bin\Debug\VB Calculator.pdb
+E:\Exercises\VB Calculator\VB Calculator\bin\Debug\VB Calculator.xml
+E:\Exercises\VB Calculator\VB Calculator\obj\Debug\ResolveAssemblyReference.cache
+E:\Exercises\VB Calculator\VB Calculator\obj\Debug\VB_Calculator.Form1.resources
+E:\Exercises\VB Calculator\VB Calculator\obj\Debug\VB_Calculator.Resources.resources
+E:\Exercises\VB Calculator\VB Calculator\obj\Debug\VB Calculator.vbproj.GenerateResource.Cache
+E:\Exercises\VB Calculator\VB Calculator\obj\Debug\VB Calculator.exe
+E:\Exercises\VB Calculator\VB Calculator\obj\Debug\VB Calculator.xml
+E:\Exercises\VB Calculator\VB Calculator\obj\Debug\VB Calculator.pdb

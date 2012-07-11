@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "String Functions", "String Functions\String Functions.vbproj", "{21D9EB9A-CC66-4D70-8193-85327BB716BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21D9EB9A-CC66-4D70-8193-85327BB716BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D9EB9A-CC66-4D70-8193-85327BB716BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D9EB9A-CC66-4D70-8193-85327BB716BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D9EB9A-CC66-4D70-8193-85327BB716BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

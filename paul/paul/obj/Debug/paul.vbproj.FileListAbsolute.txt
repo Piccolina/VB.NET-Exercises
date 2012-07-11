@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\paul\paul\bin\Debug\paul.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\paul\paul\bin\Debug\paul.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\paul\paul\bin\Debug\paul.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\paul\paul\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\paul\paul\obj\Debug\paul.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\paul\paul\obj\Debug\paul.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\paul\paul\obj\Debug\paul.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\paul\paul\obj\Debug\paul.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\paul\paul\obj\Debug\paul.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\paul\paul\obj\Debug\paul.pdb

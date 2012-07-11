@@ -1,0 +1,23 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\hello world\hello world\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\hello world\hello world\obj\Debug\hello_world.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\hello world\hello world\obj\Debug\hello_world.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\hello world\hello world\obj\Debug\hello world.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\hello world\hello world\bin\Debug\hello world.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\hello world\hello world\bin\Debug\hello world.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\hello world\hello world\bin\Debug\hello world.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\hello world\hello world\obj\Debug\hello world.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\hello world\hello world\obj\Debug\hello world.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\hello world\hello world\obj\Debug\hello world.pdb
+E:\hello world\hello world\obj\Debug\hello world.exe
+E:\hello world\hello world\obj\Debug\hello world.xml
+E:\hello world\hello world\obj\Debug\hello world.pdb
+E:\Exercises\hello world\hello world\obj\Debug\hello world.exe
+E:\Exercises\hello world\hello world\obj\Debug\hello world.xml
+E:\Exercises\hello world\hello world\obj\Debug\hello world.pdb
+E:\Exercises\hello world\hello world\bin\Debug\hello world.exe
+E:\Exercises\hello world\hello world\bin\Debug\hello world.pdb
+E:\Exercises\hello world\hello world\bin\Debug\hello world.xml
+E:\Exercises\hello world\hello world\obj\Debug\ResolveAssemblyReference.cache
+E:\Exercises\hello world\hello world\obj\Debug\hello_world.Form1.resources
+E:\Exercises\hello world\hello world\obj\Debug\hello_world.Resources.resources
+E:\Exercises\hello world\hello world\obj\Debug\hello world.vbproj.GenerateResource.Cache
