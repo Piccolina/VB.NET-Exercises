@@ -114,9 +114,9 @@ Partial Class Form1
         'Tb4
         '
         Me.Tb4.Enabled = False
-        Me.Tb4.Location = New System.Drawing.Point(167, 239)
+        Me.Tb4.Location = New System.Drawing.Point(131, 243)
         Me.Tb4.Name = "Tb4"
-        Me.Tb4.Size = New System.Drawing.Size(100, 20)
+        Me.Tb4.Size = New System.Drawing.Size(136, 20)
         Me.Tb4.TabIndex = 9
         '
         'Form1

@@ -1,0 +1,10 @@
+E:\Exercises\Course Registration\Course Registration\bin\Debug\Course Registration.exe
+E:\Exercises\Course Registration\Course Registration\bin\Debug\Course Registration.pdb
+E:\Exercises\Course Registration\Course Registration\bin\Debug\Course Registration.xml
+E:\Exercises\Course Registration\Course Registration\obj\Debug\ResolveAssemblyReference.cache
+E:\Exercises\Course Registration\Course Registration\obj\Debug\Course_Registration.Resources.resources
+E:\Exercises\Course Registration\Course Registration\obj\Debug\Course Registration.vbproj.GenerateResource.Cache
+E:\Exercises\Course Registration\Course Registration\obj\Debug\Course Registration.exe
+E:\Exercises\Course Registration\Course Registration\obj\Debug\Course Registration.xml
+E:\Exercises\Course Registration\Course Registration\obj\Debug\Course Registration.pdb
+E:\Exercises\Course Registration\Course Registration\obj\Debug\Course_Registration.Form1.resources

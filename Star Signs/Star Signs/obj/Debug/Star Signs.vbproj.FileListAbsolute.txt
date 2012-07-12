@@ -1,0 +1,10 @@
+E:\Exercises\Star Signs\Star Signs\bin\Debug\Star Signs.exe
+E:\Exercises\Star Signs\Star Signs\bin\Debug\Star Signs.pdb
+E:\Exercises\Star Signs\Star Signs\bin\Debug\Star Signs.xml
+E:\Exercises\Star Signs\Star Signs\obj\Debug\ResolveAssemblyReference.cache
+E:\Exercises\Star Signs\Star Signs\obj\Debug\Star_Signs.Resources.resources
+E:\Exercises\Star Signs\Star Signs\obj\Debug\Star_Signs.Form1.resources
+E:\Exercises\Star Signs\Star Signs\obj\Debug\Star Signs.vbproj.GenerateResource.Cache
+E:\Exercises\Star Signs\Star Signs\obj\Debug\Star Signs.exe
+E:\Exercises\Star Signs\Star Signs\obj\Debug\Star Signs.xml
+E:\Exercises\Star Signs\Star Signs\obj\Debug\Star Signs.pdb

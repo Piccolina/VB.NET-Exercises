@@ -1,0 +1,10 @@
+E:\Exercises\picture control with branching\picture control with branching\bin\Debug\picture control with branching.exe
+E:\Exercises\picture control with branching\picture control with branching\bin\Debug\picture control with branching.pdb
+E:\Exercises\picture control with branching\picture control with branching\bin\Debug\picture control with branching.xml
+E:\Exercises\picture control with branching\picture control with branching\obj\Debug\ResolveAssemblyReference.cache
+E:\Exercises\picture control with branching\picture control with branching\obj\Debug\picture_control_with_branching.Form1.resources
+E:\Exercises\picture control with branching\picture control with branching\obj\Debug\picture_control_with_branching.Resources.resources
+E:\Exercises\picture control with branching\picture control with branching\obj\Debug\picture control with branching.vbproj.GenerateResource.Cache
+E:\Exercises\picture control with branching\picture control with branching\obj\Debug\picture control with branching.exe
+E:\Exercises\picture control with branching\picture control with branching\obj\Debug\picture control with branching.xml
+E:\Exercises\picture control with branching\picture control with branching\obj\Debug\picture control with branching.pdb
