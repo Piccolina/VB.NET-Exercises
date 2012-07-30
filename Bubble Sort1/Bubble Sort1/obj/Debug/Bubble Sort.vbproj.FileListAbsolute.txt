@@ -1,0 +1,9 @@
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Bubble Sort\bin\Debug\Bubble Sort.exe
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Bubble Sort\bin\Debug\Bubble Sort.pdb
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Bubble Sort\bin\Debug\Bubble Sort.xml
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Bubble Sort\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Bubble Sort\obj\Debug\Bubble_Sort.Resources.resources
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Bubble Sort\obj\Debug\Bubble Sort.vbproj.GenerateResource.Cache
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Bubble Sort\obj\Debug\Bubble Sort.exe
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Bubble Sort\obj\Debug\Bubble Sort.xml
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Bubble Sort\obj\Debug\Bubble Sort.pdb

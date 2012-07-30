@@ -1,0 +1,20 @@
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Strings - The exact middle\bin\Debug\Strings - The exact middle.exe
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Strings - The exact middle\bin\Debug\Strings - The exact middle.pdb
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Strings - The exact middle\bin\Debug\Strings - The exact middle.xml
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Strings - The exact middle\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Strings - The exact middle\obj\Debug\Strings___The_exact_middle.Form1.resources
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Strings - The exact middle\obj\Debug\Strings___The_exact_middle.Resources.resources
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Strings - The exact middle\obj\Debug\Strings - The exact middle.vbproj.GenerateResource.Cache
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Strings - The exact middle\obj\Debug\Strings - The exact middle.exe
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Strings - The exact middle\obj\Debug\Strings - The exact middle.xml
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Strings - The exact middle\obj\Debug\Strings - The exact middle.pdb
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\obj\Debug\Strings - The exact middle.exe
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\obj\Debug\Strings - The exact middle.xml
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\obj\Debug\Strings - The exact middle.pdb
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\bin\Debug\Strings - The exact middle.exe
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\bin\Debug\Strings - The exact middle.pdb
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\bin\Debug\Strings - The exact middle.xml
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\obj\Debug\ResolveAssemblyReference.cache
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\obj\Debug\Strings___The_exact_middle.Form1.resources
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\obj\Debug\Strings___The_exact_middle.Resources.resources
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\obj\Debug\Strings - The exact middle.vbproj.GenerateResource.Cache

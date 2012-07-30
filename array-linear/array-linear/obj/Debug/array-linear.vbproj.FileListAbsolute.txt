@@ -1,0 +1,16 @@
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\array-linear\bin\Debug\array-linear.exe
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\array-linear\bin\Debug\array-linear.pdb
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\array-linear\bin\Debug\array-linear.xml
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\array-linear\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\array-linear\obj\Debug\array_linear.Form1.resources
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\array-linear\obj\Debug\array_linear.Resources.resources
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\array-linear\obj\Debug\array-linear.vbproj.GenerateResource.Cache
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\array-linear\obj\Debug\array-linear.exe
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\array-linear\obj\Debug\array-linear.xml
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\array-linear\obj\Debug\array-linear.pdb
+C:\Documents and Settings\paulmcquade\My Documents\Visual Studio 2008\Projects\array-linear\array-linear\obj\Debug\array-linear.exe
+C:\Documents and Settings\paulmcquade\My Documents\Visual Studio 2008\Projects\array-linear\array-linear\obj\Debug\array-linear.xml
+C:\Documents and Settings\paulmcquade\My Documents\Visual Studio 2008\Projects\array-linear\array-linear\obj\Debug\array-linear.pdb
+E:\Exercises\array-linear\array-linear\obj\Debug\array-linear.exe
+E:\Exercises\array-linear\array-linear\obj\Debug\array-linear.xml
+E:\Exercises\array-linear\array-linear\obj\Debug\array-linear.pdb

@@ -1,0 +1,13 @@
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Text Editing\bin\Debug\Text Editing.exe
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Text Editing\bin\Debug\Text Editing.pdb
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Text Editing\bin\Debug\Text Editing.xml
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Text Editing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Text Editing\obj\Debug\Text_Editing.Form1.resources
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Text Editing\obj\Debug\Text_Editing.Resources.resources
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Text Editing\obj\Debug\Text Editing.vbproj.GenerateResource.Cache
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Text Editing\obj\Debug\Text Editing.exe
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Text Editing\obj\Debug\Text Editing.xml
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Text Editing\obj\Debug\Text Editing.pdb
+E:\Exercises\Text Editing\Text Editing\obj\Debug\Text Editing.exe
+E:\Exercises\Text Editing\Text Editing\obj\Debug\Text Editing.xml
+E:\Exercises\Text Editing\Text Editing\obj\Debug\Text Editing.pdb

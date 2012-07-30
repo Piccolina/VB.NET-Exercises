@@ -1,0 +1,10 @@
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\radiio buttons Demo\bin\Debug\radiio buttons Demo.exe
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\radiio buttons Demo\bin\Debug\radiio buttons Demo.pdb
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\radiio buttons Demo\bin\Debug\radiio buttons Demo.xml
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\radiio buttons Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\radiio buttons Demo\obj\Debug\radiio_buttons_Demo.Form1.resources
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\radiio buttons Demo\obj\Debug\radiio_buttons_Demo.Resources.resources
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\radiio buttons Demo\obj\Debug\radiio buttons Demo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\radiio buttons Demo\obj\Debug\radiio buttons Demo.exe
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\radiio buttons Demo\obj\Debug\radiio buttons Demo.xml
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\radiio buttons Demo\obj\Debug\radiio buttons Demo.pdb

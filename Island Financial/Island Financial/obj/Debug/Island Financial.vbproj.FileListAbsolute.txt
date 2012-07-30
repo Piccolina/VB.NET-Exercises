@@ -1,0 +1,10 @@
+E:\Exercises\Island Financial\Island Financial\bin\Debug\Island Financial.exe
+E:\Exercises\Island Financial\Island Financial\bin\Debug\Island Financial.pdb
+E:\Exercises\Island Financial\Island Financial\bin\Debug\Island Financial.xml
+E:\Exercises\Island Financial\Island Financial\obj\Debug\ResolveAssemblyReference.cache
+E:\Exercises\Island Financial\Island Financial\obj\Debug\Island_Financial.Form1.resources
+E:\Exercises\Island Financial\Island Financial\obj\Debug\Island_Financial.Resources.resources
+E:\Exercises\Island Financial\Island Financial\obj\Debug\Island Financial.vbproj.GenerateResource.Cache
+E:\Exercises\Island Financial\Island Financial\obj\Debug\Island Financial.exe
+E:\Exercises\Island Financial\Island Financial\obj\Debug\Island Financial.xml
+E:\Exercises\Island Financial\Island Financial\obj\Debug\Island Financial.pdb

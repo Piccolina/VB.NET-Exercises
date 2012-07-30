@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Strings - The exact middle", "Strings - The exact middle\Strings - The exact middle.vbproj", "{3275A7B3-E8CE-4557-BBA4-016DB210F5A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3275A7B3-E8CE-4557-BBA4-016DB210F5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3275A7B3-E8CE-4557-BBA4-016DB210F5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3275A7B3-E8CE-4557-BBA4-016DB210F5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3275A7B3-E8CE-4557-BBA4-016DB210F5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

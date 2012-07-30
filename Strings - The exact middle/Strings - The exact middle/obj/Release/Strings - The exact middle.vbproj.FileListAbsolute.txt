@@ -1,0 +1,10 @@
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\bin\Release\Strings - The exact middle.exe
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\bin\Release\Strings - The exact middle.pdb
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\bin\Release\Strings - The exact middle.xml
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\obj\Release\ResolveAssemblyReference.cache
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\obj\Release\Strings___The_exact_middle.Form1.resources
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\obj\Release\Strings___The_exact_middle.Resources.resources
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\obj\Release\Strings - The exact middle.vbproj.GenerateResource.Cache
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\obj\Release\Strings - The exact middle.exe
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\obj\Release\Strings - The exact middle.xml
+E:\Exercises\Strings - The exact middle\Strings - The exact middle\obj\Release\Strings - The exact middle.pdb

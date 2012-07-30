@@ -27,19 +27,19 @@ Partial Class Form1
         Me.Lb3 = New System.Windows.Forms.Label
         Me.Lb4 = New System.Windows.Forms.Label
         Me.Tb1 = New System.Windows.Forms.TextBox
-        Me.Tb3 = New System.Windows.Forms.TextBox
         Me.Tb2 = New System.Windows.Forms.TextBox
         Me.Lb5 = New System.Windows.Forms.Label
         Me.Lb6 = New System.Windows.Forms.Label
         Me.Lb7 = New System.Windows.Forms.Label
         Me.Lb8 = New System.Windows.Forms.Label
         Me.Lb9 = New System.Windows.Forms.Label
+        Me.Tb3 = New System.Windows.Forms.TextBox
         Me.Tb4 = New System.Windows.Forms.TextBox
-        Me.Tb5 = New System.Windows.Forms.TextBox
         Me.Tb6 = New System.Windows.Forms.TextBox
-        Me.Tb7 = New System.Windows.Forms.TextBox
-        Me.Tb8 = New System.Windows.Forms.TextBox
+        Me.Tb5 = New System.Windows.Forms.TextBox
         Me.Bn1 = New System.Windows.Forms.Button
+        Me.cb1 = New System.Windows.Forms.ComboBox
+        Me.cb2 = New System.Windows.Forms.ComboBox
         Me.SuspendLayout()
         '
         'Lb1
@@ -85,13 +85,6 @@ Partial Class Form1
         Me.Tb1.Name = "Tb1"
         Me.Tb1.Size = New System.Drawing.Size(100, 20)
         Me.Tb1.TabIndex = 4
-        '
-        'Tb3
-        '
-        Me.Tb3.Location = New System.Drawing.Point(285, 54)
-        Me.Tb3.Name = "Tb3"
-        Me.Tb3.Size = New System.Drawing.Size(100, 20)
-        Me.Tb3.TabIndex = 6
         '
         'Tb2
         '
@@ -145,40 +138,33 @@ Partial Class Form1
         Me.Lb9.TabIndex = 12
         Me.Lb9.Text = "Net Pay"
         '
+        'Tb3
+        '
+        Me.Tb3.Location = New System.Drawing.Point(163, 105)
+        Me.Tb3.Name = "Tb3"
+        Me.Tb3.Size = New System.Drawing.Size(100, 20)
+        Me.Tb3.TabIndex = 14
+        '
         'Tb4
         '
-        Me.Tb4.Location = New System.Drawing.Point(44, 105)
+        Me.Tb4.Location = New System.Drawing.Point(44, 158)
         Me.Tb4.Name = "Tb4"
         Me.Tb4.Size = New System.Drawing.Size(100, 20)
-        Me.Tb4.TabIndex = 13
-        '
-        'Tb5
-        '
-        Me.Tb5.Location = New System.Drawing.Point(163, 105)
-        Me.Tb5.Name = "Tb5"
-        Me.Tb5.Size = New System.Drawing.Size(100, 20)
-        Me.Tb5.TabIndex = 14
+        Me.Tb4.TabIndex = 15
         '
         'Tb6
         '
-        Me.Tb6.Location = New System.Drawing.Point(44, 158)
+        Me.Tb6.Location = New System.Drawing.Point(285, 158)
         Me.Tb6.Name = "Tb6"
         Me.Tb6.Size = New System.Drawing.Size(100, 20)
-        Me.Tb6.TabIndex = 15
+        Me.Tb6.TabIndex = 16
         '
-        'Tb7
+        'Tb5
         '
-        Me.Tb7.Location = New System.Drawing.Point(285, 158)
-        Me.Tb7.Name = "Tb7"
-        Me.Tb7.Size = New System.Drawing.Size(100, 20)
-        Me.Tb7.TabIndex = 16
-        '
-        'Tb8
-        '
-        Me.Tb8.Location = New System.Drawing.Point(163, 158)
-        Me.Tb8.Name = "Tb8"
-        Me.Tb8.Size = New System.Drawing.Size(100, 20)
-        Me.Tb8.TabIndex = 17
+        Me.Tb5.Location = New System.Drawing.Point(163, 158)
+        Me.Tb5.Name = "Tb5"
+        Me.Tb5.Size = New System.Drawing.Size(100, 20)
+        Me.Tb5.TabIndex = 17
         '
         'Bn1
         '
@@ -189,24 +175,42 @@ Partial Class Form1
         Me.Bn1.Text = "Calculate"
         Me.Bn1.UseVisualStyleBackColor = True
         '
+        'cb1
+        '
+        Me.cb1.FormattingEnabled = True
+        Me.cb1.Items.AddRange(New Object() {"Hardware", "Grocery", "Confectionery"})
+        Me.cb1.Location = New System.Drawing.Point(41, 105)
+        Me.cb1.Name = "cb1"
+        Me.cb1.Size = New System.Drawing.Size(103, 21)
+        Me.cb1.TabIndex = 19
+        '
+        'cb2
+        '
+        Me.cb2.FormattingEnabled = True
+        Me.cb2.Items.AddRange(New Object() {"Part-Time", "Full-Time"})
+        Me.cb2.Location = New System.Drawing.Point(289, 53)
+        Me.cb2.Name = "cb2"
+        Me.cb2.Size = New System.Drawing.Size(96, 21)
+        Me.cb2.TabIndex = 20
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(411, 238)
+        Me.Controls.Add(Me.cb2)
+        Me.Controls.Add(Me.cb1)
         Me.Controls.Add(Me.Bn1)
-        Me.Controls.Add(Me.Tb8)
-        Me.Controls.Add(Me.Tb7)
-        Me.Controls.Add(Me.Tb6)
         Me.Controls.Add(Me.Tb5)
+        Me.Controls.Add(Me.Tb6)
         Me.Controls.Add(Me.Tb4)
+        Me.Controls.Add(Me.Tb3)
         Me.Controls.Add(Me.Lb9)
         Me.Controls.Add(Me.Lb8)
         Me.Controls.Add(Me.Lb7)
         Me.Controls.Add(Me.Lb6)
         Me.Controls.Add(Me.Lb5)
         Me.Controls.Add(Me.Tb2)
-        Me.Controls.Add(Me.Tb3)
         Me.Controls.Add(Me.Tb1)
         Me.Controls.Add(Me.Lb4)
         Me.Controls.Add(Me.Lb3)
@@ -224,18 +228,18 @@ Partial Class Form1
     Friend WithEvents Lb3 As System.Windows.Forms.Label
     Friend WithEvents Lb4 As System.Windows.Forms.Label
     Friend WithEvents Tb1 As System.Windows.Forms.TextBox
-    Friend WithEvents Tb3 As System.Windows.Forms.TextBox
     Friend WithEvents Tb2 As System.Windows.Forms.TextBox
     Friend WithEvents Lb5 As System.Windows.Forms.Label
     Friend WithEvents Lb6 As System.Windows.Forms.Label
     Friend WithEvents Lb7 As System.Windows.Forms.Label
     Friend WithEvents Lb8 As System.Windows.Forms.Label
     Friend WithEvents Lb9 As System.Windows.Forms.Label
+    Friend WithEvents Tb3 As System.Windows.Forms.TextBox
     Friend WithEvents Tb4 As System.Windows.Forms.TextBox
-    Friend WithEvents Tb5 As System.Windows.Forms.TextBox
     Friend WithEvents Tb6 As System.Windows.Forms.TextBox
-    Friend WithEvents Tb7 As System.Windows.Forms.TextBox
-    Friend WithEvents Tb8 As System.Windows.Forms.TextBox
+    Friend WithEvents Tb5 As System.Windows.Forms.TextBox
     Friend WithEvents Bn1 As System.Windows.Forms.Button
+    Friend WithEvents cb1 As System.Windows.Forms.ComboBox
+    Friend WithEvents cb2 As System.Windows.Forms.ComboBox
 
 End Class

@@ -1,0 +1,20 @@
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Sandymount Italian Restaurant\bin\Debug\Sandymount Italian Restaurant.exe
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Sandymount Italian Restaurant\bin\Debug\Sandymount Italian Restaurant.pdb
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Sandymount Italian Restaurant\bin\Debug\Sandymount Italian Restaurant.xml
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Sandymount Italian Restaurant\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Sandymount Italian Restaurant\obj\Debug\Sandymount_Italian_Restaurant.Resources.resources
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Sandymount Italian Restaurant\obj\Debug\Sandymount_Italian_Restaurant.Form1.resources
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Sandymount Italian Restaurant\obj\Debug\Sandymount Italian Restaurant.vbproj.GenerateResource.Cache
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Sandymount Italian Restaurant\obj\Debug\Sandymount Italian Restaurant.exe
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Sandymount Italian Restaurant\obj\Debug\Sandymount Italian Restaurant.xml
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Sandymount Italian Restaurant\obj\Debug\Sandymount Italian Restaurant.pdb
+E:\Exercises\Sandymount Italian Restaurant\Sandymount Italian Restaurant\obj\Debug\Sandymount Italian Restaurant.exe
+E:\Exercises\Sandymount Italian Restaurant\Sandymount Italian Restaurant\obj\Debug\Sandymount Italian Restaurant.xml
+E:\Exercises\Sandymount Italian Restaurant\Sandymount Italian Restaurant\obj\Debug\Sandymount Italian Restaurant.pdb
+E:\Exercises\Sandymount Italian Restaurant\Sandymount Italian Restaurant\bin\Debug\Sandymount Italian Restaurant.exe
+E:\Exercises\Sandymount Italian Restaurant\Sandymount Italian Restaurant\bin\Debug\Sandymount Italian Restaurant.pdb
+E:\Exercises\Sandymount Italian Restaurant\Sandymount Italian Restaurant\bin\Debug\Sandymount Italian Restaurant.xml
+E:\Exercises\Sandymount Italian Restaurant\Sandymount Italian Restaurant\obj\Debug\ResolveAssemblyReference.cache
+E:\Exercises\Sandymount Italian Restaurant\Sandymount Italian Restaurant\obj\Debug\Sandymount_Italian_Restaurant.Resources.resources
+E:\Exercises\Sandymount Italian Restaurant\Sandymount Italian Restaurant\obj\Debug\Sandymount_Italian_Restaurant.Form1.resources
+E:\Exercises\Sandymount Italian Restaurant\Sandymount Italian Restaurant\obj\Debug\Sandymount Italian Restaurant.vbproj.GenerateResource.Cache

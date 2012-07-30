@@ -1,0 +1,13 @@
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Combo Boxes Demo\bin\Debug\Combo Boxes Demo.exe
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Combo Boxes Demo\bin\Debug\Combo Boxes Demo.pdb
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Combo Boxes Demo\bin\Debug\Combo Boxes Demo.xml
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Combo Boxes Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Combo Boxes Demo\obj\Debug\Combo_Boxes_Demo.Form1.resources
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Combo Boxes Demo\obj\Debug\Combo_Boxes_Demo.Resources.resources
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Combo Boxes Demo\obj\Debug\Combo Boxes Demo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Combo Boxes Demo\obj\Debug\Combo Boxes Demo.exe
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Combo Boxes Demo\obj\Debug\Combo Boxes Demo.xml
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\Combo Boxes Demo\obj\Debug\Combo Boxes Demo.pdb
+E:\Exercises\Combo Boxes Demo\Combo Boxes Demo\obj\Debug\Combo Boxes Demo.exe
+E:\Exercises\Combo Boxes Demo\Combo Boxes Demo\obj\Debug\Combo Boxes Demo.xml
+E:\Exercises\Combo Boxes Demo\Combo Boxes Demo\obj\Debug\Combo Boxes Demo.pdb

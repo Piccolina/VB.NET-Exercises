@@ -1,0 +1,10 @@
+E:\Exercises\Dunnes Stores\Dunnes Stores\bin\Debug\Dunnes Stores.exe
+E:\Exercises\Dunnes Stores\Dunnes Stores\bin\Debug\Dunnes Stores.pdb
+E:\Exercises\Dunnes Stores\Dunnes Stores\bin\Debug\Dunnes Stores.xml
+E:\Exercises\Dunnes Stores\Dunnes Stores\obj\Debug\ResolveAssemblyReference.cache
+E:\Exercises\Dunnes Stores\Dunnes Stores\obj\Debug\Dunnes_Stores.Form1.resources
+E:\Exercises\Dunnes Stores\Dunnes Stores\obj\Debug\Dunnes_Stores.Resources.resources
+E:\Exercises\Dunnes Stores\Dunnes Stores\obj\Debug\Dunnes Stores.vbproj.GenerateResource.Cache
+E:\Exercises\Dunnes Stores\Dunnes Stores\obj\Debug\Dunnes Stores.exe
+E:\Exercises\Dunnes Stores\Dunnes Stores\obj\Debug\Dunnes Stores.xml
+E:\Exercises\Dunnes Stores\Dunnes Stores\obj\Debug\Dunnes Stores.pdb

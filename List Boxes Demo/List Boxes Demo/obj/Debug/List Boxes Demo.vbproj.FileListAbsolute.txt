@@ -1,0 +1,10 @@
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\List Boxes Demo\bin\Debug\List Boxes Demo.exe
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\List Boxes Demo\bin\Debug\List Boxes Demo.pdb
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\List Boxes Demo\bin\Debug\List Boxes Demo.xml
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\List Boxes Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\List Boxes Demo\obj\Debug\List_Boxes_Demo.Form1.resources
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\List Boxes Demo\obj\Debug\List_Boxes_Demo.Resources.resources
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\List Boxes Demo\obj\Debug\List Boxes Demo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\List Boxes Demo\obj\Debug\List Boxes Demo.exe
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\List Boxes Demo\obj\Debug\List Boxes Demo.xml
+C:\Documents and Settings\paulmcquade\Local Settings\Application Data\Temporary Projects\List Boxes Demo\obj\Debug\List Boxes Demo.pdb
